@@ -12,6 +12,17 @@
          "name": "VIP-01-TRUE",
          "url": "https://raw.githubusercontent.com/ANOFZXX/HSUS/main/N-P-T.ovpn"
       }
+,
+{
+         "name": "VIP-02-AIS",
+         "url": "https://raw.githubusercontent.com/ANOFZXX/HSUS/main/N-P-A-2.ovpn"
+      }
+,
+{
+         "name": "VIP-02-TRUE",
+         "url": "https://raw.githubusercontent.com/ANOFZXX/HSUS/main/N-P-T-2.ovpn"
+      }
+
 
    ],
 "message":"
@@ -27,5 +38,5 @@
 
 \n\nเวอร์ชั่นไฟล์:1",
 "title":"New Update File" ,
-   "version":2
+   "version":3
 }
